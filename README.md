@@ -1,8 +1,8 @@
 # DeKPCA-ADMM_py
 The code is the implementation of a decentralized algorithm for Kernel Principal Component Analysis (DeKPCA) in a sample-distributed setting, as described in the paper 
-"`
+["`
   [A decentralized framework for kernel PCA with projection consensus constraints](https://arxiv.org/abs/2211.15953)
-"`
+"`](https://arxiv.org/abs/2211.15953)
 
 "A decentralized framework for kernel PCA with projection consensus constraints". In this setup, each local agent holds a subset of samples with complete features.
 
