@@ -19,7 +19,7 @@ class MyPms:
         self.train_num = 200
         self.test_num = 0
         self.ill_thres = 0.01
-        self.max_repeat = 1
+        self.max_repeat = 100
 
 
 comm = MPI.COMM_WORLD
