@@ -1,4 +1,4 @@
-import mpi4py.MPI as MPI
+00import mpi4py.MPI as MPI
 import math
 import numpy as np
 from numpy.linalg import multi_dot, eig
@@ -21,7 +21,7 @@ class MyPms:
         self.train_num = 200
         self.test_num = 0
         self.ill_thres = 0.01
-        self.max_repeat = 1
+        self.max_repeat = 100
 
 
 # def generate_graph(worker_num, nei_num, type='normal'):
