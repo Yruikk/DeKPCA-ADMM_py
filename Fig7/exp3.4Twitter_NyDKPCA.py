@@ -23,7 +23,7 @@ class MyPms:
         self.train_num = 10000
         self.test_num = 0
         self.ill_thres = 0.01
-        self.max_repeat = 1
+        self.max_repeat = 100
         self.center_num = 2000
 
 
