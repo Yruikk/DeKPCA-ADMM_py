@@ -18,7 +18,7 @@ class MyPms:
         self.target_k = 1
         self.test_num = 0
         self.ill_thres = 0.01
-        self.max_repeat = 1
+        self.max_repeat = 100
 
 
 comm = MPI.COMM_WORLD
