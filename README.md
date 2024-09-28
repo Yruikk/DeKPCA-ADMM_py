@@ -4,4 +4,4 @@ The code is the implementation of a decentralized algorithm for Kernel Principal
 
 This is the Python code of our paper, which uses mpi4py to accomplish a truly parallel setting.
 
-Each folder in ``ExperimentsForFigAndTable'' corresponds to the code for a specific figure or table in the article. We conducted experiments on TomsHardware and Twitter datasets and have uploaded the source data for TomsHardware (as the Twitter data is too large, readers are advised to download it themselves). Before running any code, please make sure to copy the source data to the current directory.
+Each folder in "ExperimentsForFigAndTable" corresponds to the code for a specific figure or table in the article. We conducted experiments on TomsHardware and Twitter datasets and have uploaded the source data for TomsHardware (as the Twitter data is too large, readers are advised to download it themselves). Before running any code, please make sure to copy the source data to the current directory.
